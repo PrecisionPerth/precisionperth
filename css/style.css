@@ -7344,7 +7344,7 @@ img.haber-gorsel {
 .person {
   color: #030301;
   position: absolute;
-  top: 70%;
+  top: -10%;
   left: 50%;
   transform: translate(-50%, -100%);
   font-size: 1.5rem;
